@@ -9775,11 +9775,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\RafNijs\\Documents\\GitHub\\k8s-docker-core\\WebApplication2\\WebApplication2.csproj",
+      "projectUniqueName": "C:\\Users\\RafNijs\\Source\\Repos\\k8s-docker-core\\WebApplication2\\WebApplication2.csproj",
       "projectName": "WebApplication2",
-      "projectPath": "C:\\Users\\RafNijs\\Documents\\GitHub\\k8s-docker-core\\WebApplication2\\WebApplication2.csproj",
+      "projectPath": "C:\\Users\\RafNijs\\Source\\Repos\\k8s-docker-core\\WebApplication2\\WebApplication2.csproj",
       "packagesPath": "C:\\Users\\RafNijs\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\RafNijs\\Documents\\GitHub\\k8s-docker-core\\WebApplication2\\obj\\",
+      "outputPath": "C:\\Users\\RafNijs\\Source\\Repos\\k8s-docker-core\\WebApplication2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\RafNijs\\AppData\\Roaming\\NuGet\\NuGet.Config",
