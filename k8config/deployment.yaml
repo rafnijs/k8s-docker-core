@@ -17,7 +17,7 @@ spec:
     spec:
       containers:
       - name: core-server
-        image: atulm.azurecr.io/docker-dotnetcore:latest
+        image: acrrepository.azurecr.io/docker-dotnetcore:latest
         imagePullPolicy: Always
         ports:
         - containerPort: 8080
